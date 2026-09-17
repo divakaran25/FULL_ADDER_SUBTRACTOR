@@ -1,6 +1,6 @@
 ## EXP3: FULL_ADDER_SUBTRACTOR
-## Name: Ragavan E
-## Register No:212223040160
+## Name: l.divakaran
+## Register No:212225045001
 
 
 
